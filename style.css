@@ -20,8 +20,9 @@ nav {
 
 nav img {
     width: 50px;
-    height: 50px;
+    height: 60px;
     border-radius: 50px;
+    margin-bottom: 20px;
 }
 
 .navlinks ul {
